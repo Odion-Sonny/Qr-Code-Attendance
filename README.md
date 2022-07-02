@@ -3,9 +3,7 @@
 QR Code Attendance is a python programme for marking attendance by generating unique QR code for each individual.
 
 
-Notes:
 
-You can scan QR Codes with any app like "[LoMag barcode scanner for Android](http://www.lomag.eu/ScannerAndroid/)"
 
 # Requirements
 

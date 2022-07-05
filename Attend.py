@@ -106,7 +106,8 @@ while True:
        
     cv2.imshow("Frame", frame)
 
-    if cv2.waitKey(1)&0xFF == ord('g'):
+     # Hit 'q' on the keyboard to quit!
+    if cv2.waitKey(1)&0xFF == ord('q'):
         cv2.destroyAllWindows()
         break
     

@@ -1,6 +1,6 @@
 # QR Code Attendance
 
-QR Code Attendance is a python GUI app generates unique QR code for each student and allows them to mark their attendance by scanning the QR code.
+QR Code Attendance is a python GUI app that generates a unique QR code for each student and allows them to mark their attendance by scanning the QR code.
 
 
 
